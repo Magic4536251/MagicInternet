@@ -14,7 +14,7 @@
 ------
 
 
-# 使用教程及下载地址
+# 使用教程及软件下载地址
 https://github.com/Magic4536251/MagicInternet_Help
 
 
