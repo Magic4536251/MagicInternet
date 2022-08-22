@@ -229,5 +229,5 @@ https://github.com/Magic4536251/MagicInternet_Help
 
 ------
 
-## 购买地址：https://bit.ly/3aH9Chg
+## 购买地址：https://bit.ly/3R4Q5Hx
 
