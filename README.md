@@ -36,7 +36,7 @@ https://github.com/Magic4536251/MagicInternet_Help
 
 - [x] 解锁流媒体，解锁全部流媒体，测速一片绿，跟机场老大佩奇相并列
 
-- **68折优惠码（11.23-12.1）:happybirthday
+- **68折优惠码（11.23-12.1）:happybirthday**
 
 ### 套餐价格及速率
 
