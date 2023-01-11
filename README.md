@@ -100,7 +100,7 @@ https://github.com/Magic4536251/MagicInternet_Help
 - 注册登录就送**1G体验流量**，一个账号仅有一次
 - 此机场有免流节点，请按需购买
 
-- [x] 解锁常规流媒体（奈非，迪士尼，B站港澳台等）
+- [x] 解锁常规流媒体（Netflix，Disney，BiliBili港澳台等）
 
 
 ### 套餐价格及速率
