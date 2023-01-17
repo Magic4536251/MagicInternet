@@ -60,7 +60,7 @@ https://github.com/Magic4536251/MagicInternet_Help
 ### 其他年付套餐请自行查看
 
 
-## 购买地址：https://bit.ly/3eqJnhq
+## 购买地址：http://bit.ly/3GOx5cy
 
 
 ------
