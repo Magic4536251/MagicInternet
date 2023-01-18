@@ -233,7 +233,7 @@ https://github.com/Magic4536251/MagicInternet_Help
 
 
 
-## 购买地址：https://bit.ly/3z7mWWl
+## 购买地址：http://bit.ly/3ZKtu87
 
 
 ------
