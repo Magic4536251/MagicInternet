@@ -226,7 +226,7 @@ PS: 游戏还是要用专业的游戏加速器
 
 
 
-## 购买地址：http://bit.ly/3ZKtu87
+## 购买地址 http://bit.ly/3lhcRkZ
 
 
 ------
