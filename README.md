@@ -31,7 +31,7 @@ https://github.com/Magic4536251/MagicInternet_Help
 - **只推荐性价比高、机场存在时间长，带专线节点的机场**
 - **本列表排名由好用且极具性价比由高到低排列，会及时获取最新性价比且稳定机场上新**
 
-
+------
 
 
 ## FUTURE NETWORK (未来网络）
@@ -53,8 +53,6 @@ https://github.com/Magic4536251/MagicInternet_Help
 | 888G             | 69.0R / 月        | 不限速             | 不限制           |
 
 ### 其他年付套餐请自行查看
-
-------
 
 ### 流量包套餐价格及速率
 
