@@ -228,7 +228,7 @@ https://github.com/Magic4536251/MagicInternet_Help
 
 
 
-## 购买地址[https://bit.ly/43c2hfJ]:点我购买
+## 购买地址[https://bit.ly/43c2hfJ]:  "点我"
 
 
 ------
