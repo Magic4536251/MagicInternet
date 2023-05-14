@@ -18,6 +18,7 @@
 #### 为什么不推荐用机场打游戏？试想一个场景你想你打游戏的时候，旁边有人在下载大片吗？不得给你卡死，所以游戏要用专业加速器
 
 #### 删除机场：超级跑车（已跑路）、美汁源（机场主摆烂）
+#### 新增机场: Godetia
 ------
 
 # 使用教程及软件下载地址
@@ -227,7 +228,7 @@ https://github.com/Magic4536251/MagicInternet_Help
 
 
 
-## 购买地址 https://bit.ly/43c2hfJ
+## 购买地址:[https://bit.ly/43c2hfJ]:点我购买
 
 
 ------
@@ -267,7 +268,7 @@ https://github.com/Magic4536251/MagicInternet_Help
 
 
 
-## 购买地址 http://bit.ly/3lhcRkZ
+## 购买地址:http://bit.ly/3lhcRkZ
 
 
 ------
