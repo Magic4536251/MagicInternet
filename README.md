@@ -115,7 +115,7 @@
 
 
 
-## 购买地址：https://bit.ly/3QizjFM
+## 购买地址：[点我](https://user.night-furyx.com/index.php#/register?code=lGQd4B0L)
 
 
 
