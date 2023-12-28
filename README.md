@@ -90,7 +90,7 @@
 
 
 
-## 购买地址：https://bit.ly/3rr3wuh
+## 购买地址：[大航海](http://dhh.gay/#/register?code=VS7yGyPN)
 ------
 
 ## 夜煞云
