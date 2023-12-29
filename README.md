@@ -201,6 +201,6 @@
 
 ### 其他年付套餐请自行查看
 
-## 购买地址：[魔戒](https://www.mojie.nl/#/register?code=UY7hO34R)
+## 购买地址：[魔戒](https://www.mojie.live/#/register?code=UY7hO34R)
 
 
