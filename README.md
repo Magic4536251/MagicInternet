@@ -163,7 +163,7 @@
 
 
 
-## 购买地址:[SOCK BOOM](https://sockboom.online/auth/register?affid=433401)
+## 购买地址:[SOCK BOOM](https://sockboom.boo/auth/register?affid=433401)
 
 
 
