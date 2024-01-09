@@ -66,7 +66,7 @@
 ### 其他年付套餐请自行查看
 
 
-## 购买地址：[涩龍云](https://www.selom.xyz/#/register?code=Le0b07Vl)
+## 购买地址：[涩龍云](https://portal.selom.xyz/#/register?code=Le0b07Vl)
 
 ------
 ## 大航海
