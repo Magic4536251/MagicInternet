@@ -116,7 +116,7 @@
 
 
 
-## 购买地址：[夜煞云](https://user.night-furyx.com/index.php#/register?code=lGQd4B0L)
+## 购买地址：[夜煞云](https://yeshayun.com/#/register&code=lGQd4B0L)
 
 
 
