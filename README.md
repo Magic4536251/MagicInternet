@@ -91,7 +91,7 @@
 
 
 
-## 购买地址：[大航海](http://dhh.gay/#/register?code=VS7yGyPN)
+## 购买地址：[大航海](http://dhh.bar/#/register?code=VS7yGyPN)
 ------
 
 ## 夜煞云
