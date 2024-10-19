@@ -110,7 +110,7 @@
 | 1145G            | 28.8R / 月        | 不限速             | 不限制           |
 
 
-## 购买地址：[大航海](http://dhh.app/#/register?code=VS7yGyPN)
+## 购买地址：[大航海](http://dhh.homes/#/register?code=VS7yGyPN)
 
 
 ------
