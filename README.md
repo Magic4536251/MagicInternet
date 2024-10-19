@@ -61,7 +61,7 @@
 ### 其他年付套餐请自行查看
 
 
-## 购买地址：[涩龍云](https://panel.selom.xyz/#/register?code=Le0b07Vl)
+## 购买地址：[涩龍云](https://panel2.selom.xyz/#/register?code=Le0b07Vl)
 
 ------
 
@@ -87,7 +87,7 @@
 
 
 
-## 购买地址：[渔舍](https://dash.yushe.org/#/register?code=KFulxeOn)
+## 购买地址：[渔舍](https://cp.yushe.org/#/register?code=KFulxeOn)
 
 ------
 
@@ -110,7 +110,7 @@
 | 1145G            | 28.8R / 月        | 不限速             | 不限制           |
 
 
-## 购买地址：[大航海](http://dhh.bar/#/register?code=VS7yGyPN)
+## 购买地址：[大航海](http://dhh.app/#/register?code=VS7yGyPN)
 
 
 ------
