@@ -163,7 +163,7 @@
 
 
 
-## 购买地址：[逗猫](https://www.doumao.vip/#/register?code=yUtgPsFb)
+## 购买地址：[逗猫](https://login.doumao.vip/#/register?code=yUtgPsFb)
 
 
 ------
