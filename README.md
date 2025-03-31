@@ -134,7 +134,7 @@
 | 1024G            | 80.00R / 月        | 不限速             | 不限制           |
 
 
-## 购买地址：[Bocchi](https://haruka.bocchi.ooo/register?code=uyYvNfm0)
+## 购买地址：[Bocchi](https://bocchi.site/#/register?code=uyYvNfm0)
 
 
 ------
