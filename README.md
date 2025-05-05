@@ -87,6 +87,7 @@
 ### 其他年付套餐请自行查看
 
 
+如若打不开，请关闭梯子访问
 
 ## 购买地址：[渔舍](https://cp.yushe.org/#/register?code=KFulxeOn)
 
