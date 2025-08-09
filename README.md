@@ -112,7 +112,7 @@
 | 1000G            | 28.8R / 月        | 不限速             | 不限制           |
 
 
-## 购买地址：[大航海](http://dhh.ink/#/register?code=VS7yGyPN)
+## 购买地址：[大航海](http://d-h-h.de/#/register?code=VS7yGyPN)
 
 
 
@@ -191,4 +191,5 @@
 
 
 ## 购买地址：[Bocchi](https://bocchi.site/#/register?code=uyYvNfm0)
+
 
