@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=Magic4536251&project=MagicInternet&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=Magic4536251&project=MagicInternet&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=Magic4536251&project=MagicInternet&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=Magic4536251&project=MagicInternet&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=Magic4536251&project=MagicInternet&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=Magic4536251&project=MagicInternet&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=Magic4536251&project=MagicInternet&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=Magic4536251&project=MagicInternet&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=Magic4536251&project=MagicInternet&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=Magic4536251&project=MagicInternet&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=Magic4536251&project=MagicInternet&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=Magic4536251&project=MagicInternet&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=Magic4536251&project=MagicInternet&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=Magic4536251&project=MagicInternet&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=Magic4536251&project=MagicInternet&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=Magic4536251&project=MagicInternet&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=Magic4536251&project=MagicInternet&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=Magic4536251&project=MagicInternet&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=Magic4536251&project=MagicInternet&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=Magic4536251&project=MagicInternet&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=Magic4536251&project=MagicInternet&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # **本仓库只做高性价比机场的使用后推荐，适合小白或者给查资料学术研究的人使用**
 # **任何机场均有跑路风险，请购买机场时优先月付避免机场后期跑路危机！**
 ### 序言
